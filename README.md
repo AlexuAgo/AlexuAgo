@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexuAgo
 - 👀 I’m interested in programming, sports and games.
-- 🌱 I’m currently in a computer science university.
+- 🌱 I have a BSc in Computer Science.
 
 
 <!---
